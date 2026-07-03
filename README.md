@@ -7,5 +7,5 @@ Not a lot visible here, huh? Fortunately a game is under construction. This mean
 with a website that will soon be available for showcasing my progress ! Stay tuned ♡
 
 ## 🎵 Song of the week !
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/3ifS7kpwdi7vBJ3ju2HE2S?si=a7495b4ac09d4719)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/8QWs6H6jixs?list=RD8QWs6H6jixs)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4rHYBJ199L5go82nIyZutj?si=28b1dd3391054c22)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/sb9PIiolwA8)
