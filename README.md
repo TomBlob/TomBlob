@@ -3,6 +3,7 @@
 I'm Thomas, a recent comp sci graduate from the South Shore of Montreal, with a passion for video games, music,
 camping and bouldering !
 
+
 ## My game project: [ZOMBIE_GAME](https://github.com/TomBlob/ZOMBIE_GAME)
 
 I'm designing and building my own **C++ / OpenGL** game engine from scratch, along with a **horror / roguelike / RPG**
@@ -13,6 +14,8 @@ zombie game inspired by Barony, Skyrim, The Binding of Isaac, Deep Rock Galactic
   Mixamo animations, retargeted in the engine
 - **World**: procedural BSP dungeons in the style of Barony
 - **UI**: my own native UI framework (replacing ImGui) for the menus, fonts, HUD and inventory
+
+<img src="zombie_thumbnail.png" width="100%" alt="ZOMBIE_GAME">
 
 ## How I work
 
